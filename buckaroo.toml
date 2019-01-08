@@ -1,1 +1,1 @@
-targets = [ "//:x11" ]
+targets = [ "//:xrandr" ]
